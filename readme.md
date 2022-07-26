@@ -1,6 +1,9 @@
-# Murtuza Rangwala
+# Project 1 - HTML and CSS
+
+## Murtuza Rangwala
 
 ![Project](https://img.shields.io/badge/Project-1-brightgreen)
+![](https://img.shields.io/badge/HTML-CSS-yellowgreen)
 
 ## What I learned from this Project?
 
