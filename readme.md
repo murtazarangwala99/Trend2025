@@ -14,6 +14,8 @@
 
 ## Live Link of the Project:
 
+[Live Project Link](https://trendin2025.netlify.app/)
+
 ## Output:
 
 ![Trend in 2025?](./thumbnail.png "Trend in 2025?")
