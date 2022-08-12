@@ -5,9 +5,9 @@
 ![Project](https://img.shields.io/badge/Project-1-brightgreen)
 ![](https://img.shields.io/badge/HTML-CSS-yellowgreen)
 
-## What I learned from this Project?
+## What did I learned from this Project?
 
-- I learned how to use HTML and CSS to create a beutiful website.
+- I learned how to use HTML and CSS to create a beautiful website.
 
 - I learned about positioning elements in the HTML and CSS.
 
